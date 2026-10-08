@@ -1,0 +1,44 @@
+Smart Library Management System
+
+Project Overview
+
+The Smart Library Management System is a software application designed
+to manage library operations efficiently. It helps librarians organize
+books, manage users, track borrowing and returns, and generate reports.
+
+Objectives
+
+-   Digitize library records
+-   Reduce manual work
+-   Improve book search efficiency
+-   Track issued and returned books
+-   Generate reports
+
+Features
+
+-   User registration and login
+-   Book management
+-   Search by title, author, or category
+-   Issue and return books
+-   Fine calculation for overdue books
+-   Admin dashboard
+
+Technologies
+
+-   Frontend: HTML, CSS, JavaScript
+-   Backend: Python (Flask)
+-   Database: MySQL
+-   Version Control: Git
+
+Future Enhancements
+
+-   QR code support
+-   Mobile application
+-   Email notifications
+-   AI-based book recommendations
+
+Conclusion
+
+This project simplifies library management by automating routine tasks,
+improving accuracy, and providing a better experience for both
+librarians and students.
